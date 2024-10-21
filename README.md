@@ -8,7 +8,7 @@
    npm install
 
 
-2. iniciei o app
+2. inicie o app
 
  
     npx expo start
